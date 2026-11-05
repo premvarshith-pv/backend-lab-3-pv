@@ -432,3 +432,4 @@ To regenerate fresh screenshots at any time:
 ```bash
 node capture_screenshots.js
 ```
+
