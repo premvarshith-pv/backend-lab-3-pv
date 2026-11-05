@@ -1,0 +1,24 @@
+{
+  "name": "backend-lab-3",
+  "version": "1.0.0",
+  "description": "Backend Development Fundamentals Lab 3 - REST API, Query Parameters, Validation and Debugging",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test_api.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "express",
+    "sqlite",
+    "rest-api",
+    "crud"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
